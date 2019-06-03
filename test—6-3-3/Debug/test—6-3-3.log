@@ -1,0 +1,3 @@
+﻿  源.c
+F:\比特科技\test—6-3-3\源.c(28,9): warning C4101:  “j”: 未引用的局部变量
+  test—6-3-3.vcxproj -> F:\比特科技\test—6-3-3\Debug\test—6-3-3.exe
