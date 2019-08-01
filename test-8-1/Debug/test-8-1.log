@@ -1,0 +1,3 @@
+﻿  test.cpp
+F:\比特科技\test-8-1\test.cpp(105,1): error C2512:  “Time”: 没有合适的默认构造函数可用
+F:\比特科技\test-8-1\test.h(25,7): message :  参见“Time”的声明
