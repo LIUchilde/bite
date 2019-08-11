@@ -1,0 +1,5 @@
+﻿  main.c
+  test.c
+  正在生成代码...
+F:\比特科技\test-8-10\main.c(24,8): warning C4013:  “system”未定义；假设外部返回 int
+  test-8-10.vcxproj -> F:\比特科技\test-8-10\Debug\test-8-10.exe
