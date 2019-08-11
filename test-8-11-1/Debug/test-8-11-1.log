@@ -1,0 +1,48 @@
+﻿  main.cpp
+F:\比特科技\test-8-11-1\test.h(75,19): warning C4018:  “<”: 有符号/无符号不匹配
+F:\比特科技\test-8-11-1\test.h(71): message :  在编译 类 模板 成员函数“void SeqList<int>::SeqListPopFront(void)”时
+F:\比特科技\test-8-11-1\main.cpp(16): message :  查看对正在编译的函数 模板 实例化“void SeqList<int>::SeqListPopFront(void)”的引用
+F:\比特科技\test-8-11-1\main.cpp(5): message :  查看对正在编译的 类 模板 实例化“SeqList<int>”的引用
+F:\比特科技\test-8-11-1\test.h(89,19): warning C4018:  “<”: 有符号/无符号不匹配
+F:\比特科技\test-8-11-1\test.h(88): message :  在编译 类 模板 成员函数“void SeqList<int>::SeqListprint(void)”时
+F:\比特科技\test-8-11-1\main.cpp(10): message :  查看对正在编译的函数 模板 实例化“void SeqList<int>::SeqListprint(void)”的引用
+F:\比特科技\test-8-11-1\test.h(96,22): warning C4018:  “>”: 有符号/无符号不匹配
+F:\比特科技\test-8-11-1\test.h(95): message :  在编译 类 模板 成员函数“void SeqList<int>::SeqListInsert(int,const Type &)”时
+F:\比特科技\test-8-11-1\test.h(95): message :         with
+F:\比特科技\test-8-11-1\test.h(95): message :         [
+F:\比特科技\test-8-11-1\test.h(95): message :             Type=int
+F:\比特科技\test-8-11-1\test.h(95): message :         ]
+F:\比特科技\test-8-11-1\main.cpp(21): message :  查看对正在编译的函数 模板 实例化“void SeqList<int>::SeqListInsert(int,const Type &)”的引用
+F:\比特科技\test-8-11-1\main.cpp(21): message :         with
+F:\比特科技\test-8-11-1\main.cpp(21): message :         [
+F:\比特科技\test-8-11-1\main.cpp(21): message :             Type=int
+F:\比特科技\test-8-11-1\main.cpp(21): message :         ]
+F:\比特科技\test-8-11-1\test.h(113,23): warning C4018:  “<”: 有符号/无符号不匹配
+F:\比特科技\test-8-11-1\test.h(109): message :  在编译 类 模板 成员函数“void SeqList<int>::SeqListerase(int)”时
+F:\比特科技\test-8-11-1\main.cpp(23): message :  查看对正在编译的函数 模板 实例化“void SeqList<int>::SeqListerase(int)”的引用
+F:\比特科技\test-8-11-1\test.h(120,19): warning C4018:  “<”: 有符号/无符号不匹配
+F:\比特科技\test-8-11-1\test.h(119): message :  在编译 类 模板 成员函数“int SeqList<int>::Find(const Type &)”时
+F:\比特科技\test-8-11-1\test.h(119): message :         with
+F:\比特科技\test-8-11-1\test.h(119): message :         [
+F:\比特科技\test-8-11-1\test.h(119): message :             Type=int
+F:\比特科技\test-8-11-1\test.h(119): message :         ]
+F:\比特科技\test-8-11-1\main.cpp(25): message :  查看对正在编译的函数 模板 实例化“int SeqList<int>::Find(const Type &)”的引用
+F:\比特科技\test-8-11-1\main.cpp(25): message :         with
+F:\比特科技\test-8-11-1\main.cpp(25): message :         [
+F:\比特科技\test-8-11-1\main.cpp(25): message :             Type=int
+F:\比特科技\test-8-11-1\main.cpp(25): message :         ]
+F:\比特科技\test-8-11-1\test.h(132,19): warning C4018:  “<”: 有符号/无符号不匹配
+F:\比特科技\test-8-11-1\test.h(131): message :  在编译 类 模板 成员函数“void SeqList<int>::delete_val(const Type &)”时
+F:\比特科技\test-8-11-1\test.h(131): message :         with
+F:\比特科技\test-8-11-1\test.h(131): message :         [
+F:\比特科技\test-8-11-1\test.h(131): message :             Type=int
+F:\比特科技\test-8-11-1\test.h(131): message :         ]
+F:\比特科技\test-8-11-1\main.cpp(27): message :  查看对正在编译的函数 模板 实例化“void SeqList<int>::delete_val(const Type &)”的引用
+F:\比特科技\test-8-11-1\main.cpp(27): message :         with
+F:\比特科技\test-8-11-1\main.cpp(27): message :         [
+F:\比特科技\test-8-11-1\main.cpp(27): message :             Type=int
+F:\比特科技\test-8-11-1\main.cpp(27): message :         ]
+F:\比特科技\test-8-11-1\test.h(147,19): warning C4018:  “<=”: 有符号/无符号不匹配
+F:\比特科技\test-8-11-1\test.h(145): message :  在编译 类 模板 成员函数“void SeqList<int>::reserve(void)”时
+F:\比特科技\test-8-11-1\main.cpp(30): message :  查看对正在编译的函数 模板 实例化“void SeqList<int>::reserve(void)”的引用
+  test-8-11-1.vcxproj -> F:\比特科技\test-8-11-1\Debug\test-8-11-1.exe
