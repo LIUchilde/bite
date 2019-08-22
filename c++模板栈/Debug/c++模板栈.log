@@ -1,0 +1,6 @@
+﻿  main.cpp
+F:\比特科技\c++模板栈\stack.h(52,1): error C2664:  “Datatype stack<int>::pop(stack<int> *)”: 无法将参数 1 从“stack<int> **”转换为“stack<int> *”
+F:\比特科技\c++模板栈\stack.h(52,7): message :  与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+F:\比特科技\c++模板栈\stack.h(50): message :  在编译 类 模板 成员函数“void stack<int>::Clear(stack<int> *)”时
+F:\比特科技\c++模板栈\main.cpp(12): message :  查看对正在编译的函数 模板 实例化“void stack<int>::Clear(stack<int> *)”的引用
+F:\比特科技\c++模板栈\main.cpp(5): message :  查看对正在编译的 类 模板 实例化“stack<int>”的引用
