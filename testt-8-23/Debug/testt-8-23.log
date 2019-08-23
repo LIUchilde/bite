@@ -1,0 +1,11 @@
+﻿  test.c
+F:\比特科技\testt-8-23\test.c(340,16): warning C4047:  “函数”:“DataType”与“Node *”的间接级别不同
+F:\比特科技\testt-8-23\test.c(340,16): warning C4024:  “push”: 形参和实参 2 的类型不同
+F:\比特科技\testt-8-23\test.c(343,1): warning C4047:  “初始化”:“Node *”与“int”的间接级别不同
+F:\比特科技\testt-8-23\test.c(354,16): warning C4047:  “函数”:“DataType”与“Node *”的间接级别不同
+F:\比特科技\testt-8-23\test.c(354,16): warning C4024:  “push”: 形参和实参 2 的类型不同
+F:\比特科技\testt-8-23\test.c(357,1): warning C4047:  “初始化”:“Node *”与“int”的间接级别不同
+F:\比特科技\testt-8-23\test.c(409,10): warning C4477:  “printf”: 格式字符串“%c”需要类型“int”的参数，但可变参数 1 拥有了类型“Node *”
+F:\比特科技\testt-8-23\test.c(414,10): warning C4477:  “printf”: 格式字符串“%c”需要类型“int”的参数，但可变参数 1 拥有了类型“Node *”
+F:\比特科技\testt-8-23\test.c(419,10): warning C4477:  “printf”: 格式字符串“%c”需要类型“int”的参数，但可变参数 1 拥有了类型“Node *”
+  testt-8-23.vcxproj -> F:\比特科技\testt-8-23\Debug\testt-8-23.exe
