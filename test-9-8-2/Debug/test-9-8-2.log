@@ -1,0 +1,23 @@
+﻿  test.cpp
+F:\比特科技\test-9-8-2\test.h(48,1): error C2664:  “ListNode<int>::ListNode(ListNode<int> &&)”: 无法将参数 1 从“T”转换为“const ListNode<int> &”
+F:\比特科技\test-9-8-2\test.h(48,1): error C2664:         with
+F:\比特科技\test-9-8-2\test.h(48,1): error C2664:         [
+F:\比特科技\test-9-8-2\test.h(48,1): error C2664:             T=int
+F:\比特科技\test-9-8-2\test.h(48,1): error C2664:         ]
+F:\比特科技\test-9-8-2\test.h(48,1): message :  原因如下: 无法从“T”转换为“const ListNode<int>”
+F:\比特科技\test-9-8-2\test.h(48,1): message :         with
+F:\比特科技\test-9-8-2\test.h(48,1): message :         [
+F:\比特科技\test-9-8-2\test.h(48,1): message :             T=int
+F:\比特科技\test-9-8-2\test.h(48,1): message :         ]
+F:\比特科技\test-9-8-2\test.h(48,1): message :  无构造函数可以接受源类型，或构造函数重载决策不明确
+F:\比特科技\test-9-8-2\test.h(47): message :  在编译 类 模板 成员函数“void ListNode<int>::pushFront(ListNode<int> *,T)”时
+F:\比特科技\test-9-8-2\test.h(47): message :         with
+F:\比特科技\test-9-8-2\test.h(47): message :         [
+F:\比特科技\test-9-8-2\test.h(47): message :             T=int
+F:\比特科技\test-9-8-2\test.h(47): message :         ]
+F:\比特科技\test-9-8-2\test.cpp(6): message :  查看对正在编译的函数 模板 实例化“void ListNode<int>::pushFront(ListNode<int> *,T)”的引用
+F:\比特科技\test-9-8-2\test.cpp(6): message :         with
+F:\比特科技\test-9-8-2\test.cpp(6): message :         [
+F:\比特科技\test-9-8-2\test.cpp(6): message :             T=int
+F:\比特科技\test-9-8-2\test.cpp(6): message :         ]
+F:\比特科技\test-9-8-2\test.cpp(5): message :  查看对正在编译的 类 模板 实例化“ListNode<int>”的引用
