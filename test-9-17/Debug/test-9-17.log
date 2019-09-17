@@ -1,0 +1,2 @@
+﻿  test.cpp
+F:\比特科技\test-9-17\test.cpp(36,17): error C3203:  “deque”: 未专用化的 类 模板 不能用作 模板 变量，该变量属于 模板 参数“Container”，应为 real 类型
