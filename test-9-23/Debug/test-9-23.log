@@ -1,0 +1,3 @@
+﻿  test.cpp
+F:\比特科技\test-9-23\test.cpp(338,19): error C3246:  “B”: 无法从“A”继承，因为它已被声明为“final”
+F:\比特科技\test-9-23\test.cpp(330): message :  参见“A”的声明
