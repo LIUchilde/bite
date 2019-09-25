@@ -1,0 +1,3 @@
+﻿  main.cpp
+F:\比特科技\test-9-25\main.cpp(240,15): error C3248:  “B::TestFunc”: 声明为“final”的函数无法被“C::TestFunc”重写
+F:\比特科技\test-9-25\main.cpp(234): message :  参见“B::TestFunc”的声明
