@@ -1,0 +1,2 @@
+﻿  test.cpp
+F:\比特科技\test-10-5-string\test.cpp(240,1): error C2664:  “void std::swap(std::exception_ptr &,std::exception_ptr &) noexcept”: 无法将参数 1 从“char *”转换为“std::exception_ptr &”
