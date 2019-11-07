@@ -1,0 +1,6 @@
+﻿  test.cpp
+F:\比特科技\test-11-7牛客网\test.cpp(143,20): warning C4018: “<”: 有符号/无符号不匹配
+F:\比特科技\test-11-7牛客网\test.cpp(144,21): warning C4018: “<”: 有符号/无符号不匹配
+F:\比特科技\test-11-7牛客网\test.cpp(147,18): warning C4018: “<”: 有符号/无符号不匹配
+F:\比特科技\test-11-7牛客网\test.cpp(147,39): warning C4018: “<”: 有符号/无符号不匹配
+  test-11-7牛客网.vcxproj -> F:\比特科技\test-11-7牛客网\Debug\test-11-7牛客网.exe
