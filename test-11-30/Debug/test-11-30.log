@@ -1,0 +1,4 @@
+﻿  test.cpp
+F:\比特科技\test-11-30\test.cpp(76,21): warning C4018: “<”: 有符号/无符号不匹配
+F:\比特科技\test-11-30\test.cpp(79,21): warning C4018: “<”: 有符号/无符号不匹配
+  test-11-30.vcxproj -> F:\比特科技\test-11-30\Debug\test-11-30.exe
