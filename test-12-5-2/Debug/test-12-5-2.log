@@ -1,0 +1,3 @@
+﻿  test.cpp
+F:\比特科技\test-12-5-2\DuiLib\Core\UIManager.h(45,2): warning C4091: “typedef ”: 没有声明变量时忽略“DuiLib::EVENTTYPE_UI”的左侧
+  test-12-5-2.vcxproj -> F:\比特科技\test-12-5-2\Debug\test-12-5-2.exe
