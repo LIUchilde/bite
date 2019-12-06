@@ -1,0 +1,6 @@
+﻿  test.cpp
+F:\比特科技\test-12-6\test.cpp(100): warning C4700: 使用了未初始化的局部变量“a”
+F:\比特科技\test-12-6\test.cpp(101): warning C4700: 使用了未初始化的局部变量“b”
+F:\比特科技\test-12-6\test.cpp(102): warning C4700: 使用了未初始化的局部变量“c”
+F:\比特科技\test-12-6\test.cpp(103): warning C4700: 使用了未初始化的局部变量“d”
+  test-12-6.vcxproj -> F:\比特科技\test-12-6\Debug\test-12-6.exe
