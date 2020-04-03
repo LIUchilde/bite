@@ -1,0 +1,76 @@
+﻿  StdAfx.cpp
+cl : 命令行 warning D9035: “Gm”选项已否决，并将在将来的版本中移除
+E:\duilib-master\duilib-master\DuiLib\Core\UIManager.h(45,2): warning C4091: “typedef ”: 没有声明变量时忽略“DuiLib::EVENTTYPE_UI”的左侧
+  WinImplBase.cpp
+  Utils.cpp
+  UIDelegate.cpp
+  UIlib.cpp
+  UIVerticalLayout.cpp
+cl : 命令行 warning D9035: “Gm”选项已否决，并将在将来的版本中移除
+  UITileLayout.cpp
+  UITabLayout.cpp
+  UIHorizontalLayout.cpp
+E:\duilib-master\duilib-master\DuiLib\Layout\UIVerticalLayout.cpp(251,37): warning C4302: “类型强制转换”: 从“LPSTR”到“WORD”截断
+  UIChildLayout.cpp
+  UIRender.cpp
+E:\duilib-master\duilib-master\DuiLib\Layout\UIHorizontalLayout.cpp(246,37): warning C4302: “类型强制转换”: 从“LPSTR”到“WORD”截断
+E:\duilib-master\duilib-master\DuiLib\Core\UIRender.cpp(1112,61): warning C4838: 从“int”转换到“COLOR16”需要收缩转换
+E:\duilib-master\duilib-master\DuiLib\Core\UIRender.cpp(1112,86): warning C4838: 从“int”转换到“COLOR16”需要收缩转换
+E:\duilib-master\duilib-master\DuiLib\Core\UIRender.cpp(1112,111): warning C4838: 从“int”转换到“COLOR16”需要收缩转换
+E:\duilib-master\duilib-master\DuiLib\Core\UIRender.cpp(1113,66): warning C4838: 从“int”转换到“COLOR16”需要收缩转换
+E:\duilib-master\duilib-master\DuiLib\Core\UIRender.cpp(1113,92): warning C4838: 从“int”转换到“COLOR16”需要收缩转换
+  UIMarkup.cpp
+  UIManager.cpp
+  UIDlgBuilder.cpp
+  UIControl.cpp
+E:\duilib-master\duilib-master\DuiLib\Core\UIRender.cpp(1113,118): warning C4838: 从“int”转换到“COLOR16”需要收缩转换
+  UIContainer.cpp
+  UIBase.cpp
+  UIWebBrowser.cpp
+  UITreeView.cpp
+  UIText.cpp
+E:\duilib-master\duilib-master\DuiLib\Core\UIControl.cpp(682,40): warning C4302: “类型强制转换”: 从“LPSTR”到“WORD”截断
+  UISlider.cpp
+E:\duilib-master\duilib-master\DuiLib\Control\UIText.cpp(52,37): warning C4302: “类型强制转换”: 从“LPSTR”到“WORD”截断
+  正在生成代码...
+  正在编译...
+  UIScrollBar.cpp
+  UIRichEdit.cpp
+  UIProgress.cpp
+  UIOption.cpp
+  UIList.cpp
+E:\duilib-master\duilib-master\DuiLib\Control\UISlider.cpp(174,36): warning C4302: “类型强制转换”: 从“LPSTR”到“WORD”截断
+E:\duilib-master\duilib-master\DuiLib\Control\UIList.cpp(1444,44): warning C4302: “类型强制转换”: 从“LPSTR”到“WORD”截断
+  UILabel.cpp
+E:\duilib-master\duilib-master\DuiLib\Control\UIList.cpp(1989,48): warning C4302: “类型强制转换”: 从“LPSTR”到“WORD”截断
+E:\duilib-master\duilib-master\DuiLib\Control\UILabel.cpp(67,2): warning C4297: “DuiLib::CLabelUI::~CLabelUI”: 假定函数不引发异常，但确实发生了
+E:\duilib-master\duilib-master\DuiLib\Control\UILabel.cpp(67,2): message : 析构函数或释放器具有一个(可能是隐含的)非引发异常规范
+E:\duilib-master\duilib-master\DuiLib\Control\UILabel.cpp(351,5): error C2065: “wstring”: 未声明的标识符
+E:\duilib-master\duilib-master\DuiLib\Control\UILabel.cpp(351,13): error C2146: 语法错误: 缺少“;”(在标识符“mTextValue”的前面)
+E:\duilib-master\duilib-master\DuiLib\Control\UILabel.cpp(351,13): error C2065: “mTextValue”: 未声明的标识符
+E:\duilib-master\duilib-master\DuiLib\Control\UILabel.cpp(354,26): error C2065: “mTextValue”: 未声明的标识符
+E:\duilib-master\duilib-master\DuiLib\Control\UILabel.cpp(354,45): error C2065: “mTextValue”: 未声明的标识符
+E:\duilib-master\duilib-master\DuiLib\Control\UILabel.cpp(356,26): error C2065: “mTextValue”: 未声明的标识符
+E:\duilib-master\duilib-master\DuiLib\Control\UILabel.cpp(356,45): error C2065: “mTextValue”: 未声明的标识符
+E:\duilib-master\duilib-master\DuiLib\Control\UILabel.cpp(358,26): error C2065: “mTextValue”: 未声明的标识符
+E:\duilib-master\duilib-master\DuiLib\Control\UILabel.cpp(358,45): error C2065: “mTextValue”: 未声明的标识符
+E:\duilib-master\duilib-master\DuiLib\Control\UILabel.cpp(360,26): error C2065: “mTextValue”: 未声明的标识符
+E:\duilib-master\duilib-master\DuiLib\Control\UILabel.cpp(360,45): error C2065: “mTextValue”: 未声明的标识符
+E:\duilib-master\duilib-master\DuiLib\Control\UILabel.cpp(372,4): error C2065: “wstring”: 未声明的标识符
+E:\duilib-master\duilib-master\DuiLib\Control\UILabel.cpp(372,12): error C2146: 语法错误: 缺少“;”(在标识符“mTextValue”的前面)
+E:\duilib-master\duilib-master\DuiLib\Control\UILabel.cpp(372,12): error C2065: “mTextValue”: 未声明的标识符
+E:\duilib-master\duilib-master\DuiLib\Control\UILabel.cpp(375,26): error C2065: “mTextValue”: 未声明的标识符
+E:\duilib-master\duilib-master\DuiLib\Control\UILabel.cpp(375,45): error C2065: “mTextValue”: 未声明的标识符
+E:\duilib-master\duilib-master\DuiLib\Control\UILabel.cpp(377,25): error C2065: “mTextValue”: 未声明的标识符
+  UIEdit.cpp
+E:\duilib-master\duilib-master\DuiLib\Control\UILabel.cpp(377,44): error C2065: “mTextValue”: 未声明的标识符
+  UIDateTime.cpp
+E:\duilib-master\duilib-master\DuiLib\Control\UIEdit.cpp(194,35): warning C4302: “类型强制转换”: 从“LPSTR”到“WORD”截断
+  UIComboBox.cpp
+  UICombo.cpp
+  UICheckBox.cpp
+  UIButton.cpp
+E:\duilib-master\duilib-master\DuiLib\Control\UIDateTime.cpp(231,35): warning C4302: “类型强制转换”: 从“LPSTR”到“WORD”截断
+  UIActiveX.cpp
+  正在生成代码...
+E:\duilib-master\duilib-master\DuiLib\Control\UIButton.cpp(107,35): warning C4302: “类型强制转换”: 从“LPSTR”到“WORD”截断
