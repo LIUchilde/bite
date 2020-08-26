@@ -1,0 +1,69 @@
+#define _CRT_SECURE_NO_WARNINGS 1
+#include<stdio.h>
+#include<stdlib.h>
+#include<string>
+#if 0
+void GetMemory(char*p){
+	p = (char*)malloc(100);
+}
+int main(){
+	char*str = NULL;
+	GetMemory(str);
+	strcpy(str, "hello world");
+	printf(str);
+	return 0;
+}
+
+
+char* GetMemory(void){
+	char p[] = "hello";
+	return p;
+}
+int main(){
+	char *str = NULL;
+	str = GetMemory();
+
+	printf(str);
+	system("pause");
+	return 0;
+}
+void GetMemory(char **p,int num){
+	*p = (char*)malloc(num);
+}
+int main(){
+	char *str = NULL;
+	GetMemory(&str,100);
+	strcpy(str, "hello");
+	printf(str);
+	system("pause");
+	return 0;
+}
+#endif
+/*
+int main(){
+	char * str = (char*)malloc(100);
+	strcpy(str, "hello");
+	free(str);
+	if (str != NULL){
+		*str = 'c';
+		printf(str);
+	}
+	system("pause");
+	return 0;
+}
+*/
+void Test(void){
+	char *str = (char *)malloc(100);
+	char *string = (char *)malloc(100);
+	strcpy(str, "hello");
+	free(str);
+	if (str != NULL){
+		*str = 'c';
+		printf("%s\n", str);
+	}
+}
+int main()
+{
+	Test();
+	system("pause");
+}
